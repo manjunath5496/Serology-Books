@@ -2,13 +2,15 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Serology-Books/blob/master/sero(1).pdf" style="text-decoration:none;">The Hubble Space Telescope: From Concept to Success</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Serology-Books/blob/master/sero(1).pdf" style="text-decoration:none;">Serological diagnosis of Brucella infection</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Serology-Books/blob/master/sero(2).pdf" style="text-decoration:none;">Spaceman: An Astronaut's Unlikely Journey to Unlock the Secrets of the Universe</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Serology-Books/blob/master/sero(2).pdf" style="text-decoration:none;">Serological markers to measure recent
+changes in malaria transmission</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Serology-Books/blob/master/sero(3).pdf" style="text-decoration:none;">Approximate Methods for Weapon Aerodynamics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Serology-Books/blob/master/sero(4).pdf" style="text-decoration:none;">Space and Energy: Proceedings of the XXVIth International Astronautical Congress, Lisbon, 21-27 September 1975</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Serology-Books/blob/master/sero(5).pdf" style="text-decoration:none;"> Astronautics for Peace and Human Progress. Proceedings of the XXIXth International Astronautical Congress, Dubrovnik, 1–8 October 1978</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Serology-Books/blob/master/sero(3).pdf" style="text-decoration:none;">Molecular and Serological approaches for the Detection and Typing of Leptospira</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Serology-Books/blob/master/sero(4).pdf" style="text-decoration:none;">Molecular and Serological Analysis of
+Herpesvirus Infections in the Immunocompromised Host</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Serology-Books/blob/master/sero(5).pdf" style="text-decoration:none;"> serological tests in venereal syphilis</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Serology-Books/blob/master/sero(6).pdf" style="text-decoration:none;">The Gods Never Left Us: The Long Awaited Sequel to the Worldwide Best-seller Chariots of the Gods</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Serology-Books/blob/master/sero(7).pdf" style="text-decoration:none;">Orbital Mechanics and Astrodynamics</a></li>
 
